@@ -14,6 +14,8 @@
 
 "char"  {  return CHAR;  }
 
+"char*"  {  return POINTER;  }
+
 "print"  {  return PRINT;  }
 
 "return"  {  return RETURN;  }
